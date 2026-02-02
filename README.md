@@ -115,19 +115,5 @@ The solution helps healthcare providers:
 
 ---
 
-## 👥 Team Members
-- Varshini J  
-- Devabalakrishnan  
-- Deepak Krishna Kumar P S  
-- Aiswarya D  
-- Ashok M  
-
----
-
-## 📄 Report
-📌 Full project report available in the `report/` folder.
-
----
-
 ## 📜 License
 This project is for academic and educational purposes.
